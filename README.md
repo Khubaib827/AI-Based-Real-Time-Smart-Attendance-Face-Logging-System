@@ -1,0 +1,2 @@
+# AI-Based-Real-Time-Smart-Attendance-Face-Logging-System
+AI-powered attendance system using face recognition technology. Automates student registration, real-time face detection, attendance marking, and report generation. Built with Python, OpenCV, face_recognition, CustomTkinter, SQLite. Features dashboard, statistics, CSV/Excel/PDF exports. Secure, scalable, and accurate solution for institutions. 
